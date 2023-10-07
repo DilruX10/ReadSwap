@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "122300820588",
+    "project_id": "readswap-47310",
+    "storage_bucket": "readswap-47310.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122300820588:android:4e6776744ec93e957f3c49",
+        "android_client_info": {
+          "package_name": "com.example.readswap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122300820588-2bohr42ebsskaqkd7d14akk9704bn0k5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBosDuoapJ8uBZ-Y2x1E8hxSkTHnvy-czc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122300820588-2bohr42ebsskaqkd7d14akk9704bn0k5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
